@@ -10,10 +10,6 @@ Bu proje, kahve satış verilerini analiz eden ve geleceğe dönük gelir tahmin
 - 🔮 Prophet ile gelecek tarihler için gelir tahmini
 - 🤖 RandomForest ile tahmini en çok satılacak kahve türü
 
-##  Tanıtım Videosu
-
-[![YouTube Tanıtım Videosu](https://img.youtube.com/vi/xptdPps9wvY/0.jpg)](https://youtu.be/xptdPps9wvY)
-
 ##  Arayüz
 
 <!-- Görsel varsa göster -->
