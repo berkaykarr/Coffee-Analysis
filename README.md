@@ -28,5 +28,5 @@ pip install -r requirements.txt
 
 ## Çalıştırmak için
 
-python -m streamlit run CoffeeAnalsysMP.py
+python -m streamlit run Coffee_Analysis.py
 
