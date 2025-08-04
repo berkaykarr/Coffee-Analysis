@@ -10,10 +10,12 @@ Bu proje, kahve satış verilerini analiz eden ve geleceğe dönük gelir tahmin
 - 🔮 Prophet ile gelecek tarihler için gelir tahmini
 - 🤖 RandomForest ile tahmini en çok satılacak kahve türü
 
-##  Arayüz
+## 🖼 Arayüz
 
-<!-- Görsel varsa göster -->
-![app-görseli](Coffee_Logo.png)
+<p align="center">
+  <img src="coffeeimg1.jpeg" alt="Coffee App Screenshot 1" width="45%" style="margin-right: 10px;"/>
+  <img src="coffeeimg2.jpeg" alt="Coffee App Screenshot 2" width="45%"/>
+</p>
 
 ## 📦 Gereksinimler
 
