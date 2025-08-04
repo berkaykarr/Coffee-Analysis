@@ -1,30 +1,31 @@
 # Coffee Forecast App
 
-Bu proje, kahve satış verilerini analiz eden ve geleceğe dönük gelir tahmini yapan bir Streamlit uygulamasıdır. Uygulama hem geçmiş tarihli analizler yapabilir, hem de Prophet modeli ile gelecek için gelir tahmini yapabilir.
+An interactive Streamlit application for analyzing coffee sales and forecasting future income using historical data. The app supports both retrospective analysis and future predictions using the Prophet model and machine learning.
 
-## Özellikler
+## Features
 
-- 📊 Geçmiş bir gün için gelir, en çok satılan kahve ve ödeme yöntemi analizi
-- 📈 Belirli bir tarih aralığı için toplam gelir ve özet bilgiler
-- ☕ Belirli bir kahve türü için detaylı satış analizi
-- 🔮 Prophet ile gelecek tarihler için gelir tahmini
-- 🤖 RandomForest ile tahmini en çok satılacak kahve türü
+-  Analyze income, most sold coffee, and payment method on a specific past day  
+-  Summarize total income and trends over a selected date range  
+-  Detailed analysis for a selected coffee type  
+-  Forecast future income using the Prophet time series model  
+-  Predict the best-selling coffee using a Random Forest Classifier  
 
-## 🖼 Arayüz
+##  Interface Preview
 
 <p align="center">
   <img src="coffeeimg1.jpeg" alt="Coffee App Screenshot 1" width="45%" style="margin-right: 10px;"/>
   <img src="coffeeimg2.jpeg" alt="Coffee App Screenshot 2" width="45%"/>
 </p>
 
-## 📦 Gereksinimler
+##  Requirements
 
-Aşağıdaki kütüphaneleri yüklemek için:
+To install all required dependencies:
 
 ```bash
 pip install -r requirements.txt
 
-## Çalıştırmak için
+
+## How to Run
 
 python -m streamlit run Coffee_Analysis.py
 
